@@ -1,3 +1,4 @@
 --variable
 
-_G.skibi = true
+
+_G.skibi2 = true
